@@ -620,5 +620,5 @@ def main():
     }, indent=2))
 if __name__ == '__main__':
     main()
-[Enter your-user@your-machine:~$]
+your-user@your-machine:~$
 
