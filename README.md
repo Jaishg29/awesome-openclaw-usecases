@@ -97,6 +97,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | Name | Description |
 |------|-------------|
 | [Polymarket Autopilot](usecases/polymarket-autopilot.md) | Automated paper trading on prediction markets with backtesting, strategy analysis, and daily performance reports. |
+| [AI Personal Finance OS](usecases/ai-personal-finance-os.md) | A fully automated personal finance system — logging expenses from WhatsApp, auto-capturing receipts from email, and maintaining a live Google Sheets dashboard that updates automatically. No separate app to open. No manual categorization. Your money tracked through tools you already use every day. |
 
 ## 🤝 Contributing
 
